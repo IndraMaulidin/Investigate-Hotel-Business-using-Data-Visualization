@@ -2,7 +2,7 @@
 - Mini Project: Investigate Hotel Business using Data Visualization from Rakamin Academy.
 
 ## Overfiew
-Sangat penting bagi suatu perusahaan untuk selalu menganalisa performa bisnisnya. Pada kesempatan kali ini, kita akan lebih mendalami bisnis dalam bidang perhotelan. Fokus yang kita tuju adalah untuk mengetahui bagaimana perilaku pelanggan kita dalam melakukan pemesanan hotel, dan hubungannya terhadap tingkat pembatalan pemesanan hotel. Hasil dari insight yang kita temukan akan kita sajikan dalam bentuk data visualisasi agar lebih mudah dipahami dan bersifat lebih persuasif.
+It is very important for a company to always analyze its business performance. On this occasion, we will go deeper into the business in the hospitality sector. The focus we are aiming for is to find out how our customers behave in making hotel bookings, and their relationship to the level of cancellation of hotel bookings. The results of the insights we find will be presented in the form of visualization data to make it easier to understand and more persuasive.
 
 ## Data Preprocessing
 - Handling Missing Value
